@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+node_modules/
+dist/
+.vite/
+supabase/.temp/
+*.pem
+*.key
+credentials*.json
+client_secret*.json
+.DS_Store
+Thumbs.db
